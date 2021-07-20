@@ -4,3 +4,4 @@ node_modules
 dist
 # Don't lint webpack config
 webpack.*
+.eslintrc.js
